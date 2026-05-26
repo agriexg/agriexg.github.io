@@ -1,6 +1,6 @@
 ---
-My Document
-Anonymous
+:My Document:
+:Anonymous:
 ---
 
 # Test Page
