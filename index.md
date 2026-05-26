@@ -1,6 +1,7 @@
 ---
-title: My Document
-author: Anonymous  <-- Change or remove this line
+My Document
+Anonymous
 ---
+
 # Test Page
 Markdown index file.
