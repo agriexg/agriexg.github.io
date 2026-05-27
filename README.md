@@ -1,5 +1,6 @@
 # Agri Executive Group
 ## Home of K9 Elite Watcher Black
+![Drug Dogs Logo](https://agriexg.github.io/DG%20Logo.png)
 
 --
 Agri Executive Group is a KwaZulu-Natal (KZN) based K9 unit specializing in K9 Narcotics Detection.
