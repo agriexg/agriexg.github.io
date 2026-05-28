@@ -1,42 +1,86 @@
 # Agri Executive Group
-## Home of K9 Elite Watcher Black
---
-Agri Executive Group is a KwaZulu-Natal (KZN) based K9 unit specializing in K9 Narcotics Detection.
 
-Keep Your School Safe
+![Agri Executive Group Logo](https://raw.githubusercontent.com/agriexg/agriexg.github.io/main/rect1.png)
 
-Using K9 detection dogs isn’t about intimidation — it’s about keeping learners safe, supporting staff, and building a positive school environment.
+## Empowering Agricultural Growth & Innovation
 
-📞 Contact us right now to schedule a visit and secure your campus!
+Agri Executive Group is committed to advancing sustainable agriculture, agribusiness leadership, and strategic development across the agricultural value chain. Our mission is to connect innovation, expertise, and opportunity to drive long-term success in the agricultural sector.
 
-🟢WhatsApp (Click for Link) 
+---
 
---
+## About Us
 
-🐾Dog Handler Training (DH1–DH5)
-SASSETA-Aligned & Operationally Focused
+Agri Executive Group provides strategic support, leadership consulting, and business solutions tailored for the evolving agricultural industry. We work with producers, agribusinesses, investors, and stakeholders to unlock growth opportunities and build resilient agricultural enterprises.
 
-In the South African security environment, professional dog handling is not informal training. It is a structured, outcomes-based qualification.
+### Our Focus Areas
 
-Our DH1–DH5 programme develops competent, legally compliant, and operationally effective K9 teams for real-world deployment.
+- Agricultural Strategy
+- Agribusiness Development
+- Executive Advisory Services
+- Sustainability & Innovation
+- Market Expansion
+- Investment Partnerships
 
---
+---
 
-Course Structure & Unit Standard Details
-DH1 – Care for a Service Dog
+## Our Vision
 
-SASSETA Unit Standard 243188
-Price: R3,500.00
-What You Learn:
+To become a leading force in agricultural transformation by creating innovative and sustainable business opportunities that strengthen food systems and rural economies.
 
-    Daily care and welfare management
+---
 
-    Feeding, hygiene, and health monitoring
+## Our Mission
 
-    Basic obedience reinforcement
+We aim to empower agricultural businesses through strategic leadership, collaboration, and forward-thinking solutions that deliver measurable impact.
 
-    Understanding service dog responsibilities
+---
 
-    Safety and ethical handling
+## Why Choose Us
 
-DH1 forms the foundation of professional K9 work. A properly cared-for dog performs better, works longer, and operates safely under pressure.
+### Industry Expertise
+Our team understands the unique challenges and opportunities within the agricultural landscape.
+
+### Strategic Partnerships
+We believe collaboration drives growth and sustainable success.
+
+### Innovation Driven
+We embrace modern technologies and progressive agricultural practices.
+
+### Long-Term Value
+Our focus is on building resilient and future-ready agricultural enterprises.
+
+---
+
+## Services
+
+### Executive Consulting
+Strategic leadership and advisory solutions for agricultural businesses and organizations.
+
+### Agribusiness Development
+Business planning, operational support, and growth strategies for emerging and established enterprises.
+
+### Investment Facilitation
+Connecting agricultural ventures with strategic investors and funding opportunities.
+
+### Sustainability Solutions
+Supporting environmentally responsible and economically viable agricultural practices.
+
+---
+
+## Contact Us
+
+**Agri Executive Group**
+
+📧 Email: info@agriexecutivegroup.com  
+🌐 Website: https://agriexecutivegroup.com  
+📍 South Africa
+
+---
+
+## Follow Our Journey
+
+Stay connected as we continue building innovative agricultural solutions and partnerships that shape the future of farming and agribusiness.
+
+---
+
+© 2026 Agri Executive Group. All rights reserved.
