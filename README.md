@@ -2,6 +2,8 @@
 
 ![Agri Executive Group Logo](https://raw.githubusercontent.com/agriexg/agriexg.github.io/main/rect1.png)
 
+[![Drug Dogs Logo](https://raw.githubusercontent.com/agriexg/drugdogs/main/DG-Logo.png)](https://drugdogs.co.za)
+
 ## Empowering Agricultural Growth & Innovation
 
 Agri Executive Group is committed to advancing sustainable agriculture, agribusiness leadership, and strategic development across the agricultural value chain. Our mission is to connect innovation, expertise, and opportunity to drive long-term success in the agricultural sector.
